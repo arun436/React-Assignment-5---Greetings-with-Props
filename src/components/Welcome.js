@@ -6,7 +6,7 @@ const Welcome = (props) => {
     return (
         <div>
             <h1>Hey {props.name}!</h1>
-            <h2>Welcome to Newton School. How are you?</h2>
+            <h2>Welcome to Newton School. How are you? How are you doing?</h2>
         </div>
     );
 };
